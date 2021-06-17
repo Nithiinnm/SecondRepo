@@ -1,5 +1,14 @@
 Welcome to Prepare Recipes.Com
 
+*********Veg Dish********
 Egg Maggi
 Veg Maggi
 Plain Dosa
+
+*********Non Veg*********
+
+Chicken Biryani
+Mutton Biryani
+Spl Shawarma
+
+***********End***************
